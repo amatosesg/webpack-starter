@@ -5,7 +5,7 @@ This is a project to create apps with webpack.
 ### Notes: 
 1. 'src' are empty and in default mode. Feel free to change the architecture structure. If you rename any existent component remember to check webpack configs.
 
-2. Remember to install node_modules:
+2. First install node_modules:
 ```
 npm install
 ```
@@ -14,7 +14,7 @@ For production:
 ```
 npm run build
 ```
-or for development:
+and for development:
 ```
 npm run build:dev
 ```
