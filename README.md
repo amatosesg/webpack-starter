@@ -20,3 +20,6 @@ To run server (default port: 8080):
 ```
 npm run serve
 ```
+
+### Autor:
+Adrià Matoses
