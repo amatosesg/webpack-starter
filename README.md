@@ -3,7 +3,8 @@
 This is a project to create apps with webpack.
 
 ### Notes: 
-src are empty and in default mode. Feel free to change the architecture structure. If you rename any existent component remember to check webpack configs. \n
+src are empty and in default mode. Feel free to change the architecture structure. If you rename any existent component remember to check webpack configs.
+
 Remember to install node_modules:
 ```
 npm install
