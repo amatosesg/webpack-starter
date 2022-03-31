@@ -23,3 +23,6 @@ npm run serve
 
 ### Autor:
 Adrià Matoses
+
+### Last Update: 
+31/03/2022
