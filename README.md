@@ -9,9 +9,13 @@ npm install
 ```
 To build, you have 2 options:
 ```
-build
+npm run build
 ```
 or
 ```
-build:dev
+npm run build:dev
+```
+To run server:
+```
+npm run serve
 ```
